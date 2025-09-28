@@ -12,7 +12,7 @@ The primary goal of this dashboard is to visually cluster customers and provide 
 
 A quick look at the final Power BI dashboard:
 
-![Final Mall Customer Segmentation Dashboard - Image](Final_Dashboard_Image.png)
+![Final_Dashboard_Image.png](Final_Dashboard_Image.png)
 
 ## 3. Key Business Insights 💡
 

@@ -40,3 +40,7 @@ This project showcases proficiency in the following tools and techniques:
 * `Mall_Segmentation_Dashboard.pbix`: The complete Power BI project file.
 * `Mall_Customers.csv`: The original data used for the analysis.
 * `Final_Dashboard_Image.png`: High-resolution screenshot of the final dashboard.
+
+  ## License
+This project is licensed under the [MIT License](LICENSE).
+
